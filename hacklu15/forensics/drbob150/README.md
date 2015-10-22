@@ -40,7 +40,9 @@ Opened in hex editor Safe.vdi and replaced all password hash of root user.
 
 For example:
 
-```root:$6$/QrtDuz4$3mMh7Wa31i7XAZ8mEoseUDV.Od3YPELXPgGwD37zEjMwFYObwcXw1LExdvS/LBSTKOtzpU0R/eVtDZWv4PA1g1:16729:0:99999:7:::```
+```
+root:$6$/QrtDuz4$3mMh7Wa31i7XAZ8mEoseUDV.Od3YPELXPgGwD37zEjMwFYObwcXw1LExdvS/LBSTKOtzpU0R/eVtDZWv4PA1g1:16729:0:99999:7:::
+```
 
 password:1337
 
